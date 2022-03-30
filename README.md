@@ -1,1 +1,1 @@
-# Next.js starter template with TailwindCSS
+# Next.js TailwindCSS starter template

@@ -1,6 +1,6 @@
 {
-    "name": "nextjs-starter",
-    "description": "NextJs starter template",
+    "name": "nextjs-tailwind-starter",
+    "description": "NextJs TailwindCSS starter template",
     "version": "1.0.0",
     "author": {
         "name": "Md Sifatul Islam Rabbi",

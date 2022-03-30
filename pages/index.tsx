@@ -1,5 +1,5 @@
 import type {NextPage, NextPageContext} from "next";
-import {Head} from "../components";
+import {Head} from "../features";
 
 interface Props {
     message: string;
@@ -16,7 +16,7 @@ const Home: NextPage<Props> = ({message}) => {
 
 export async function getStaticProps(ctx: NextPageContext) {
     return {
-        props: {message: "Next.js starter with TailwindCSS"},
+        props: {message: "Next.js TailwindCSS starter template"},
     };
 }
 
